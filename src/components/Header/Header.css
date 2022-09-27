@@ -1,0 +1,25 @@
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+nav img{
+    margin-left: 15%;
+}
+.links{
+    margin-right: 30px;
+}
+.links a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 15px;
+    padding-right: 15px;
+    letter-spacing: 0.005em;
+}
+.links a:hover{
+    color: #f6bc51;
+}
